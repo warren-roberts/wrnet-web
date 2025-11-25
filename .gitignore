@@ -1,0 +1,13 @@
+# Hugo generated folders
+/public/
+/resources/
+
+# Hugo build lock file
+.hugo_build.lock
+
+# Node.js dependencies (if using a build process with npm)
+/node_modules/
+
+# Operating system specific files
+.DS_Store
+Thumbs.db

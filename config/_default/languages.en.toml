@@ -3,7 +3,7 @@ languageName = "English"
 languageDirection = "ltr"
 weight = 1
 
-title = "Warren Roberts - Systems Engineer"
+title = "Warren Roberts - SysEng"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
@@ -15,7 +15,7 @@ title = "Warren Roberts - Systems Engineer"
 [params.author]
   name = "Warren Roberts"
   image = "img/author.jpg"
-  headline = "I'm mostly human"
+  headline = "Half man, half machine language"
   # bio = "A little bit about you"
   links = [
   #   { email = "mailto:hello@your_domain.com" },

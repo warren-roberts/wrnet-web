@@ -8,9 +8,9 @@ title = "Warren Roberts - SysEng"
 
 [params]
   dateFormat = "January 2 2006"
+  description = "Writing by Warren Roberts on systems engineering, IAM, PowerShell, homelab infrastructure, and AI-assisted workflows."
 
   # mainSections = ["section1", "section2"]
-  # description = "My awesome website"
 
 [params.author]
   name = "Warren Roberts"

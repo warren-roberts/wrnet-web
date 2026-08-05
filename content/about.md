@@ -7,7 +7,8 @@ layout: "about"
 # in the main navigation menu:
 menu: main 
 # Optional: Set a specific weight to control its position in the menu:
-weight: 10 
+weight: 10
+keywords: ["warren roberts", "about"]
 ---
 
 ## 👋 Hello, I'm Warren

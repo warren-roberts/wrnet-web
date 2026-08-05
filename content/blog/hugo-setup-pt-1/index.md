@@ -1,8 +1,10 @@
 +++
 date = '2025-11-26'
+lastmod = '2026-08-05'
 draft = false
 title = 'Hugo setup'
 summary = 'How I got this website up and runnning with GitHub and Cloudflare Workers.'
+description = 'Hugo website setup with GitHub and Cloudflare Workers.'
 +++
 
 ![Hugo howto with Cloudflare and Github](hugo-howto.png)
@@ -68,10 +70,9 @@ This section is best left to the [official docs on GoHugo](https://gohugo.io/hos
 
 ### Redirect and TLS tweaks
 This is optional. I set up some tweaks of my own to redirect www.warrenroberts.net to warrenroberts.net as well as forcing http traffic to TLS encrypted https.
-- Set up Bulk redirect to drop www.
-    - Under Delivery & performance, click Bulk redirects.
-    - Create a Bulk redirect list. Put in the www.domainname.tld as source and domainname.tld as the destination.
-    - Create a Bulk Redirect rule that utilizes the list.
+- Set up Redirect rule for www.
+    - Go to your domain in Account home. Click Rules, Templates, then "Redirect from WWW to root".
+    - The defaults in this template work perfectly, sending a 301 redirect back to the browser.
 - Encrypt all visitor traffic
     - See [this section](https://developers.cloudflare.com/ssl/edge-certificates/additional-options/always-use-https/#encrypt-all-visitor-traffic)
 

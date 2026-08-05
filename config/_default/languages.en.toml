@@ -3,12 +3,12 @@ label = "English"
 direction = "ltr"
 weight = 1
 
-title = "Warren Roberts - SysEng"
+title = "Warren Roberts - SeniorSystems Engineer"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
   dateFormat = "January 2 2006"
-  description = "Writing by Warren Roberts on systems engineering, IAM, PowerShell, homelab infrastructure, and AI-assisted workflows."
+  description = "Personal website of Warren Roberts. Focused on systems engineering, IAM, PowerShell, homelab infrastructure, and AI-assisted workflows."
 
   # mainSections = ["section1", "section2"]
 

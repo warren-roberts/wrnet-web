@@ -5,6 +5,7 @@ draft = false
 title = 'Hugo setup'
 summary = 'How I got this website up and runnning with GitHub and Cloudflare Workers.'
 description = 'Hugo website setup with GitHub and Cloudflare Workers.'
+images = ['hugo-howto.png']
 +++
 
 ![Hugo howto with Cloudflare and Github](hugo-howto.png)

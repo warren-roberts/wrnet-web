@@ -3,6 +3,7 @@ date = '2025-11-24T22:16:31-06:00'
 draft = false
 title = 'New website'
 summary = 'Learn about my new website in my first post here.'
+images = ['new-hugo-site.png']
 +++
 
 ## Welcome

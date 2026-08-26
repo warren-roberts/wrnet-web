@@ -3,6 +3,7 @@ date = '2026-08-13'
 draft = false
 title = 'Building a Local Hermes Agent'
 summary = 'A work-in-progress agent stack built around local inference, local tools, and explicit control over where requests go.'
+images = ['local-hermes-agent.png']
 +++
 
 ![An abstract local AI agent connects to search, extraction, browser, and data-service tools in a home-lab environment.](local-hermes-agent.png)

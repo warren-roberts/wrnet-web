@@ -3,6 +3,7 @@ date = '2026-07-23'
 draft = false
 title = 'Managing this site with Codex'
 summary = 'A short note on shifting my Hugo website workflow into a Codex-assisted local editing loop.'
+images = ['codex-hugo-cloudflare.png']
 +++
 
 ![Codex, Hugo, and Cloudflare workflow](codex-hugo-cloudflare.png)

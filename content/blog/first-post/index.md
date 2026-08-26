@@ -4,6 +4,8 @@ draft = false
 title = 'New website'
 summary = 'Learn about my new website in my first post here.'
 images = ['new-hugo-site.png']
+categories = ['Website']
+tags = ['hugo', 'static-site', 'personal-site']
 +++
 
 ## Welcome

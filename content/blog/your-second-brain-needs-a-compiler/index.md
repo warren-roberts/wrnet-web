@@ -4,6 +4,8 @@ draft = false
 title = 'Your Second Brain Needs a Compiler'
 summary = 'Retrieval can recall your notes. A maintained LLM wiki can turn them into knowledge that compounds.'
 images = ['second-brain-compiler.png']
+categories = ['AI Workflow', 'Knowledge Management']
+tags = ['codex', 'obsidian', 'llm-wiki', 'knowledge-management', 'second-brain']
 +++
 
 ![A network of scattered Markdown notes passes through a glowing compiler into an organized knowledge map; OpenAI and Obsidian marks appear separately in the upper corners.](second-brain-compiler.png)

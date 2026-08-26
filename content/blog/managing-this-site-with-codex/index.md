@@ -4,6 +4,8 @@ draft = false
 title = 'Managing this site with Codex'
 summary = 'A short note on shifting my Hugo website workflow into a Codex-assisted local editing loop.'
 images = ['codex-hugo-cloudflare.png']
+categories = ['Website']
+tags = ['codex', 'hugo', 'cloudflare', 'github', 'static-site']
 +++
 
 ![Codex, Hugo, and Cloudflare workflow](codex-hugo-cloudflare.png)

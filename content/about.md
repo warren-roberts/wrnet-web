@@ -19,6 +19,7 @@ I am a Senior Systems Engineer and Software Developer working on Microsoft produ
 
 ### 💼 Professional Experience
 
+- Lead Identity Infrastructure Engineer @ Lincoln Financial — Current
 - Enterprise Systems Engineer @ Meta - IAM Authentication Directory Services
 - Senior Systems Engineer @ CDK - Enterprise Core Services Windows
 - Systems Engineering Advisor @ Dell - Server Operations, Dell internal IT
